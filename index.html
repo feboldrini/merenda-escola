@@ -8,37 +8,85 @@
 </head>
 <body>
   <header>
-    <h1>Merenda Escolar: Nutrição e Variedade</h1>
+    <div class="header-content">
+      <h1>Merenda Escolar: Nutrição e Variedade</h1>
+      <p>Por uma alimentação mais saudável e saborosa para nossas crianças!</p>
+    </div>
   </header>
 
-  <section class="introducao">
+  <nav>
+    <ul>
+      <li><a href="#introducao">Introdução</a></li>
+      <li><a href="#nutrientes">Como Adicionar Mais Nutrientes?</a></li>
+      <li><a href="#variacoes">Variações de Cardápio</a></li>
+      <li><a href="#beneficios">Benefícios da Merenda Nutritiva</a></li>
+      <li><a href="#contato">Contato</a></li>
+    </ul>
+  </nav>
+
+  <section id="introducao" class="section">
     <h2>O que é a Merenda Escolar?</h2>
-    <p>A merenda escolar é uma refeição oferecida aos estudantes para garantir que eles tenham energia e nutrientes necessários para o aprendizado. Porém, a qualidade nutricional pode ser melhorada com mais variedades e opções saudáveis.</p>
+    <p>A merenda escolar é uma refeição essencial para garantir a nutrição das crianças durante o período escolar. No entanto, muitas vezes ela não oferece a variedade e os nutrientes necessários para o desenvolvimento saudável dos estudantes.</p>
+    <img src="imagens/cardapio.jpg" alt="Cardápio escolar variado">
   </section>
 
-  <section class="nutrientes">
-    <h2>Como Adicionar Mais Nutrientes?</h2>
+  <section id="nutrientes" class="section">
+    <h2>Como Adicionar Mais Nutrientes à Merenda?</h2>
+    <p>É possível melhorar a qualidade nutricional das merendas com a inclusão de alimentos ricos em nutrientes essenciais, como proteínas, fibras, vitaminas e minerais. Veja algumas sugestões:</p>
     <ul>
-      <li><strong>Frutas e Vegetais:</strong> Incorporar mais frutas frescas e vegetais nas refeições pode aumentar o consumo de vitaminas e minerais.</li>
-      <li><strong>Proteínas:</strong> Oferecer fontes variadas de proteínas, como ovos, legumes e peixes, pode contribuir para o crescimento e a saúde das crianças.</li>
-      <li><strong>Cereais Integrais:</strong> Trocar alimentos refinados por opções integrais (como arroz integral e pães integrais) melhora a ingestão de fibras.</li>
+      <li><strong>Frutas e Vegetais:</strong> Adicionar uma variedade de frutas e vegetais frescos nas refeições diárias, como maçãs, bananas, cenouras, beterrabas, etc.</li>
+      <li><strong>Proteínas de Qualidade:</strong> Introduzir fontes de proteínas variadas, como peixes, ovos, feijões e lentilhas.</li>
+      <li><strong>Cereais Integrais:</strong> Preferir arroz integral, aveia e pães integrais para aumentar a quantidade de fibras nas refeições.</li>
+      <li><strong>Laticínios:</strong> Incluir opções de laticínios ricos em cálcio, como queijos e iogurtes.</li>
+    </ul>
+    <div class="image-gallery">
+      <img src="imagens/frutas.jpg" alt="Frutas frescas">
+      <img src="imagens/legumes.jpg" alt="Legumes variados">
+    </div>
+  </section>
+
+  <section id="variacoes" class="section">
+    <h2>Exemplos de Variações no Cardápio</h2>
+    <p>Uma merenda escolar saudável pode ser deliciosa e variada. Aqui estão algumas sugestões de cardápios equilibrados para os estudantes:</p>
+    <ul>
+      <li><strong>Segunda-feira:</strong> Arroz integral, feijão, frango grelhado, salada de cenoura, beterraba e maçã.</li>
+      <li><strong>Terça-feira:</strong> Macarrão integral com molho de tomate caseiro, almôndegas de carne moída, e laranja.</li>
+      <li><strong>Quarta-feira:</strong> Quinoa com legumes, peixe grelhado e salada de folhas verdes com molho de azeite.</li>
+      <li><strong>Quinta-feira:</strong> Sopa de legumes com arroz, iogurte natural e banana.</li>
+      <li><strong>Sexta-feira:</strong> Tacos com feijão, alface, tomate, queijo e abacaxi.</li>
+    </ul>
+    <img src="imagens/cardapio.jpg" alt="Exemplo de cardápio saudável">
+  </section>
+
+  <section id="beneficios" class="section">
+    <h2>Benefícios de uma Merenda Nutritiva</h2>
+    <p>Uma merenda escolar rica em nutrientes traz inúmeros benefícios para o aprendizado e o bem-estar das crianças:</p>
+    <ul>
+      <li><strong>Aumento da concentração:</strong> Alimentos ricos em nutrientes ajudam na concentração e no desempenho escolar.</li>
+      <li><strong>Desenvolvimento saudável:</strong> Uma alimentação balanceada auxilia no crescimento e no fortalecimento do sistema imunológico.</li>
+      <li><strong>Prevenção de doenças:</strong> Nutrientes como vitaminas e minerais fortalecem a saúde e previnem doenças.</li>
+      <li><strong>Estabelecimento de hábitos saudáveis:</strong> A merenda escolar é uma excelente oportunidade para ensinar as crianças a importância de uma alimentação balanceada.</li>
     </ul>
   </section>
 
-  <section class="variacoes">
-    <h2>Exemplos de Variações para o Cardápio</h2>
-    <ul>
-      <li><strong>Segunda-feira:</strong> Arroz integral, feijão, frango grelhado e salada de cenoura com beterraba.</li>
-      <li><strong>Terça-feira:</strong> Macarrão integral com molho de tomate e almôndegas de carne moída, acompanhado de frutas da estação.</li>
-      <li><strong>Quarta-feira:</strong> Quinoa com legumes, peixe grelhado e salada de folhas verdes.</li>
-    </ul>
+  <section id="contato" class="section">
+    <h2>Entre em Contato</h2>
+    <p>Tem alguma dúvida ou sugestão sobre como melhorar a merenda escolar? Entre em contato conosco!</p>
+    <form action="#" method="post">
+      <label for="nome">Nome:</label>
+      <input type="text" id="nome" name="nome" required>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+      <label for="mensagem">Mensagem:</label>
+      <textarea id="mensagem" name="mensagem" rows="4" required></textarea>
+      <button type="submit">Enviar</button>
+    </form>
   </section>
 
   <footer>
-    <p>Merenda Escolar - Melhorando a Nutrição nas Escolas</p>
+    <p>&copy; 2025 Merenda Escolar | Todos os direitos reservados</p>
   </footer>
 
   <script src="script.js"></script>
 </body>
 </html>
-
