@@ -1,4 +1,8 @@
-// script.js - por enquanto, vazio, mas você pode adicionar interatividade.
-document.addEventListener('DOMContentLoaded', function() {
-  console.log('Página carregada!');
+document.addEventListener('DOMContentLoaded', function () {
+  const beneficiosItems = document.querySelectorAll('.beneficios ul li');
+  beneficiosItems.forEach(item => {
+    item.addEventListener('click', function () {
+      alert(`Você clicou em: ${item.textContent}`);
+    });
+  });
 });
