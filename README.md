@@ -1,4 +1,4 @@
-e# Merenda Escolar: Nutrição e Variedade
+## Merenda Escolar: Nutrição e Variedade
 
 ## Objetivo do Projeto
 
