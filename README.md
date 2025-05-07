@@ -8,9 +8,9 @@ Nosso foco é incentivar uma alimentação mais saudável e equilibrada para tod
 
 O Clube de Ciências do Colégio Marquês já vem atuando nessa causa com o projeto “Melhoria da Alimentação na Escola”.
 
-*Atua semanalmente às terças-feiras à tarde, fora do horário letivo dos alunos do turno matutino.
-*Desenvolve pesquisas, apresentações e ideias sobre alimentação saudável.
-*Propõe alternativas nutritivas para a merenda, incluindo o uso de frutas, verduras e alimentos naturais.
+- Atua semanalmente às terças-feiras à tarde, fora do horário letivo dos alunos do turno matutino.
+- Desenvolve pesquisas, apresentações e ideias sobre alimentação saudável.
+- Propõe alternativas nutritivas para a merenda, incluindo o uso de frutas, verduras e alimentos naturais.
 
 Porém, essa iniciativa ainda é pouco conhecida pelos alunos do turno vespertino – justamente os mais novos, que estão em fase de crescimento e necessitam de uma nutrição adequada diariamente.
 
@@ -21,27 +21,27 @@ O trabalho do Clube de Ciências é essencial, mas não é suficiente por si só
 Campanha de Conscientização – Todos Juntos pela Saúde!
 
 Nossa proposta é envolver:
-✅ Professores
-✅ Pedagogas
-✅ Direção
-✅ Alunos
-✅ Pais e responsáveis
+- ✅ Professores
+- ✅ Pedagogas
+- ✅ Direção
+- ✅ Alunos
+- ✅ Pais e responsáveis
 
 A campanha pode incluir:
 
 Palestras educativas sobre alimentação saudável
--Oficinas de culinária nutritiva
--Cartazes e murais informativos pela escola
--Distribuição de folhetos para pais e alunos
--Degustações de novos alimentos naturais na merenda
--Participação dos alunos em decisões sobre o cardápio escolar
+- Oficinas de culinária nutritiva
+- Cartazes e murais informativos pela escola
+- Distribuição de folhetos para pais e alunos
+- Degustações de novos alimentos naturais na merenda
+- Participação dos alunos em decisões sobre o cardápio escolar
 
 ##  Por que isso é importante?
 
--Alimentos saudáveis ajudam no aprendizado, na concentração e no bem-estar dos alunos
--Crianças e adolescentes em fase de crescimento precisam de nutrientes essenciais
--A merenda escolar saudável beneficia todos, inclusive os educadores
--Promove hábitos alimentares positivos que podem durar a vida toda
+- Alimentos saudáveis ajudam no aprendizado, na concentração e no bem-estar dos alunos
+- Crianças e adolescentes em fase de crescimento precisam de nutrientes essenciais
+- A merenda escolar saudável beneficia todos, inclusive os educadores
+- Promove hábitos alimentares positivos que podem durar a vida toda
 
 ##  Participe!
 
