@@ -8,11 +8,11 @@ Nosso foco é incentivar uma alimentação mais saudável e equilibrada para tod
 
 O Clube de Ciências do Colégio Marquês já vem atuando nessa causa com o projeto “Melhoria da Alimentação na Escola”.
 
-- Atua semanalmente às terças-feiras à tarde, fora do horário letivo dos alunos do turno matutino.
+- Atu às terças-feiras à tarde, fora do horário letivo dos alunos do turno matutino.
 - Desenvolve pesquisas, apresentações e ideias sobre alimentação saudável.
 - Propõe alternativas nutritivas para a merenda, incluindo o uso de frutas, verduras e alimentos naturais.
 
-Porém, essa iniciativa ainda é pouco conhecida pelos alunos do turno vespertino – justamente os mais novos, que estão em fase de crescimento e necessitam de uma nutrição adequada diariamente.
+Porém, essa iniciativa ainda é pouco conhecida pelos alunos do turno vespertino – justamente os mais novos, que estão em fase de crescimento e necessitam de uma nutrição adequada.
 
 ## Precisamos de Mais Envolvimento
 
@@ -40,7 +40,7 @@ Palestras educativas sobre alimentação saudável
 
 - Alimentos saudáveis ajudam no aprendizado, na concentração e no bem-estar dos alunos
 - Crianças e adolescentes em fase de crescimento precisam de nutrientes essenciais
-- A merenda escolar saudável beneficia todos, inclusive os educadores
+- A merenda escolar saudável beneficia todos, inclusive os educadores, uma vez que eles tambem se alimentam da merenda escolar
 - Promove hábitos alimentares positivos que podem durar a vida toda
 
 ##  Participe!
